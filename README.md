@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi there 👋 I'm N Meghana 
 
-<!--
-**meghanan793/meghanan793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Osmania University (2026)
+📊 Aspiring Data Analyst passionate about turning data into meaningful insights.
 
-Here are some ideas to get you started:
+I enjoy working with data, analyzing patterns, and building projects using Python and data analytics tools. I am currently developing my skills in data analysis, visualization, and machine learning while building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 Skills & Tools
+
+- Python
+- Data Analytics
+- Pandas & NumPy
+- Data Visualization
+- Machine Learning (Beginner)
+- Git & GitHub
+
+---
+
+📂 Projects
+
+- Customer Segmentation Analysis For Targeted Marketing
+  
+More projects coming soon as I continue learning and building.
+
+---
+
+📚 Currently Learning
+
+- Advanced Data Analytics
+- Machine Learning
+- Data Visualization Techniques
+
+---
+
+🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/n-meghana-8377a6396/
+
+---
+
+⭐ Always learning, building, and improving my data analytics skills.
