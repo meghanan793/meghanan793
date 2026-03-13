@@ -26,6 +26,13 @@ More projects coming soon as I continue learning and building.
 
 ---
 
+📜 Certifications
+
+- Machine Learning with Python - IBM
+- Data Analytics Essentials - Cisco
+
+---
+
 📚 Currently Learning
 
 - Advanced Data Analytics
