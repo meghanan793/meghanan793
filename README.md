@@ -1,8 +1,8 @@
 Hi there 👋 I'm N Meghana 
 
-🎓 MCA Student | Aurora's PG College (2026)
+🎓 MCA Graduate (2026) | Aspiring Data Analyst
 
-📊 Aspiring Data Analyst passionate about turning data into meaningful insights.
+📊 Skilled in Power BI, SQL, Python, and Data Visualization
 
 I enjoy working with data, analyzing patterns, and building projects using Python and data analytics tools. I am currently developing my skills in data analysis, visualization, power BI and machine learning while building practical projects.
 
@@ -45,7 +45,7 @@ More projects coming soon as I continue learning and building.
 
 ---
 
-📚 Currently Learning
+📚 Currently Learning & Improving
 
 - Advanced Data Analytics
 - Machine Learning
@@ -53,6 +53,12 @@ More projects coming soon as I continue learning and building.
 - Power BI
 
 ---
+
+🎯 Career Objective
+
+- Seeking an entry-level Data Analyst role where I can apply my analytical and visualization skills to solve real-world business problems and grow in the field of data analytics.
+
+ --- 
 
 🌐 Connect With Me
 
