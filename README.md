@@ -1,6 +1,7 @@
 Hi there 👋 I'm N Meghana 
 
 🎓 MCA Student | Aurora's PG College (2026)
+
 📊 Aspiring Data Analyst passionate about turning data into meaningful insights.
 
 I enjoy working with data, analyzing patterns, and building projects using Python and data analytics tools. I am currently developing my skills in data analysis, visualization, power BI and machine learning while building practical projects.
@@ -32,8 +33,8 @@ More projects coming soon as I continue learning and building.
 
 🎓 Virtual Internships
 
-- Accenture Australia - Technology Consulting Job Simulation(Forage)
-- Deloitte Australia - Data Analystic Job Simulation(Forage)
+- Accenture Australia - Technology Consulting Job Simulation (Forage)
+- Deloitte Australia - Data Analystic Job Simulation (Forage)
 
 ---
 
