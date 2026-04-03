@@ -51,6 +51,7 @@ More projects coming soon as I continue learning and building.
 - Machine Learning
 - Data Visualization Techniques
 - Power BI
+- SQL
 
 ---
 
