@@ -2,7 +2,7 @@ Hi there 👋 I'm N Meghana
 
 🎓 MCA Graduate (2026) | Aspiring Data Analyst
 
-📊 Skilled in Power BI, SQL, Python, and Data Visualization
+📊 Skilled in Power BI, SQL, Python, Data Visualization and Machine Learning
 
 I enjoy working with data, analyzing patterns, and building projects using Python and data analytics tools. I am currently developing my skills in data analysis, visualization, power BI and machine learning while building practical projects.
 
