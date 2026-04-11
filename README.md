@@ -42,6 +42,7 @@ More projects coming soon as I continue learning and building.
 
 - Machine Learning with Python - IBM
 - Data Analytics Essentials - Cisco
+- Data Analytics - Nirmaan Organization (Supported by Synchrony and Infosys foundation)
 
 ---
 
