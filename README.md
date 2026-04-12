@@ -5,6 +5,7 @@ Hi there 👋 I'm N Meghana
 📊 Skilled in Power BI, SQL, Python, Data Visualization and Machine Learning
 
 🌐Portfolio:
+
 🔗 View my portfolio: https://meghanan793.github.io/meghana-portfolio
 
 I enjoy working with data, analyzing patterns, and building projects using Python and data analytics tools. I am currently developing my skills in data analysis, visualization, power BI and machine learning while building practical projects.
