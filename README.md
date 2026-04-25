@@ -1,7 +1,7 @@
 # Hi there, I'm N Meghana! 👋
 
 🎓 **MCA Graduate (2026)** | Aurora's PG College, Hyderabad | CGPA: 8.0
-📊 **Aspiring Data Analyst** | Python • SQL • Power BI • Tableau •  Machine Learning
+📊 **Aspiring Data Analyst** | Python • SQL • Power BI • Tableau • Data Analytics • Data Visualization • Machine Learning
 
 🌐 **Portfolio:** [meghanan793.github.io/meghana-portfolio](https://meghanan793.github.io/meghana-portfolio)
 
