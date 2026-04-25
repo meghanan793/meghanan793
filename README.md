@@ -38,7 +38,7 @@ More projects coming soon as I continue learning and building.
 🎓 Virtual Internships
 
 - Accenture Australia - Technology Consulting Job Simulation (Forage)
-- Deloitte Australia - Data Analystic Job Simulation (Forage)
+- Deloitte Australia - Data Analytics Job Simulation (Forage)
 
 ---
 
