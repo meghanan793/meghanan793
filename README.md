@@ -48,7 +48,7 @@ Built an interactive KPI dashboard tracking **₹2.33M in revenue**, regional pe
 ## 🎓 Virtual Internships
 
 - 🏢 **Accenture Australia** — Technology Consulting Job Simulation *(Forage, March 2026)*
-- 🏢 **Deloitte Australia** — Data Analytics Job Simulation *(Forage,February 2026)*
+- 🏢 **Deloitte Australia** — Data Analytics Job Simulation *(Forage, February 2026)*
 
 ---
 
