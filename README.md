@@ -1,77 +1,79 @@
-Hi there 👋 I'm N Meghana 
+# Hi there, I'm N Meghana! 👋
 
-🎓 MCA Graduate (2026) | Aspiring Data Analyst
-
-📊 Skilled in Power BI, SQL, Tableau, Python, Data Visualization and Machine Learning
-
-🌐Portfolio:
-
-🔗 View my portfolio: https://meghanan793.github.io/meghana-portfolio
-
-I enjoy working with data, analyzing patterns, and building projects using Python and data analytics tools. I am currently developing my skills in data analysis, visualization, power BI and machine learning while building practical projects.
+🎓 **MCA Graduate (2026)** | Aurora's PG College, Hyderabad | CGPA: 8.0
+📊 **Aspiring Data Analyst** | Python • SQL • Power BI • Machine Learning
+🌐 **Portfolio:** [meghanan793.github.io/meghana-portfolio](https://meghanan793.github.io/meghana-portfolio)
 
 ---
 
-🔧 Skills & Tools
+## 👩‍💻 About Me
 
-- Python
-- Power BI
-- Tableau
-- SQL
-- Data Analytics
-- Pandas & NumPy
-- Data Visualization
-- Machine Learning (Beginner)
-- Git & GitHub
+I'm a final-year MCA student passionate about data — analyzing patterns, building dashboards, and applying machine learning to solve real-world business problems. I'm currently seeking an **entry-level Data Analyst role** in Hyderabad's IT sector where I can contribute and grow.
+
+- 🔍 Currently exploring: Advanced Data Analytics, Power BI, and Machine Learning
+- 💼 Open to: Data Analyst | Business Analyst | Data Science fresher roles
+- 📍 Based in: Hyderabad, India
 
 ---
 
-📂 Projects
+## 🔧 Skills & Tools
 
-- Customer Segmentation Analysis For Targeted Marketing
-- Superstore Sales Dashboard - PowerBI
-  
-More projects coming soon as I continue learning and building.
-
----
-
-🎓 Virtual Internships
-
-- Accenture Australia - Technology Consulting Job Simulation (Forage)
-- Deloitte Australia - Data Analytics Job Simulation (Forage)
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Visualization** | Power BI, Tableau |
+| **Other Tools** | Git, GitHub, Jupyter Notebook, VS Code, Excel |
+| **Concepts** | Data Analytics, Data Visualization, Machine Learning (Beginner), K-Means Clustering |
 
 ---
 
-📜 Certifications
+## 📂 Featured Projects
 
-- Machine Learning with Python - IBM
-- Data Analytics Essentials - Cisco
-- Data Analytics - Nirmaan Organization (Supported by Synchrony and Infosys foundation)
+### 🛒 [Customer Segmentation for Targeted Marketing](https://github.com/meghanan793/Customer-Segmentation-Data-Analytics)
+> Python • Scikit-learn • Pandas • Matplotlib • Seaborn • Jupyter Notebook
 
----
-
-📚 Currently Learning & Improving
-
-- Advanced Data Analytics
-- Machine Learning
-- Data Visualization Techniques
-- Power BI
-- SQL
+Applied **K-Means Clustering** on the Mall Customers Dataset to identify distinct customer groups for targeted marketing. Used the Elbow Method to determine optimal clusters and derived actionable business insights from segment profiling.
 
 ---
 
-🎯 Career Objective
+### 📊 [Superstore Sales Analytics Dashboard](https://github.com/meghanan793/Superstore-Sales-Dashboard-PowerBI)
+> Power BI • Excel
 
-- Seeking an entry-level Data Analyst role where I can apply my analytical and visualization skills to solve real-world business problems and grow in the field of data analytics.
-
- --- 
-
-🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/n-meghana-8377a6396/
-- Email: meghanan793@gmail.com
+Built an interactive KPI dashboard tracking **₹2.33M in revenue**, regional performance, and monthly trends using the Superstore dataset. Enables quick identification of top-performing categories and regions.
 
 ---
 
-⭐ Always learning, building, and improving my data analytics skills.
-⭐ Thank you for visiting my profile!
+## 🎓 Virtual Internships
+
+- 🏢 **Accenture Australia** — Technology Consulting Job Simulation *(Forage, March 2026)*
+- 🏢 **Deloitte Australia** — Data Analytics Job Simulation *(Forage,February 2026)*
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Machine Learning with Python** — IBM
+- 🏅 **Data Analytics Essentials** — Cisco Networking Academy
+- 🏅 **Data Analytics** — Nirmaan Organization *(Supported by Synchrony & Infosys Foundation)*
+
+---
+
+## 📈 GitHub Stats
+
+![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanan793&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanan793&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-N%20Meghana-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/n-meghana-8377a6396/)
+[![GitHub](https://img.shields.io/badge/GitHub-meghanan793-181717?style=flat&logo=github)](https://github.com/meghanan793)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=googlechrome)](https://meghanan793.github.io/meghana-portfolio)
+[![Email](https://img.shields.io/badge/Email-meghanan793%40gmail.com-D14836?style=flat&logo=gmail)](mailto:meghanan793@gmail.com)
+
+---
+
+⭐ *Always learning, building, and improving my data analytics skills — one dataset at a time.*
+⭐ *Thank you for visiting my profile!*
